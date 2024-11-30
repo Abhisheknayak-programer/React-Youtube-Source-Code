@@ -22,7 +22,7 @@ code {
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 100vh;
-  padding: 48px;
+  padding: 48px 96px;
 }
 
 .image__container {
