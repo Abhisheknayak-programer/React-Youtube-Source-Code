@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "WebCoderAbhishek";
+  src: url("./Quicksand.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.text {
+  font-size: 48px;
+  font-family: "WebCoderAbhishek", sans-serif;
+}
